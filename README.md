@@ -1,4 +1,6 @@
-<h2 align="center">Hi, I'm The UI Guy 👋</h2>
+## Hi !!!
+
+<h2 align="center">I'm The UI Guy 👋</h2>
 
 [![GitHub followers](https://img.shields.io/github/followers/achyutjhunjhunwala?style=social)](https://github.com/achyutjhunjhunwala)
 [![Linkedin network](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/theuiguy/)
