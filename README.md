@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align="center">Hi, I'm The UI Guy 👋</h2>
 
 [![GitHub followers](https://img.shields.io/github/followers/achyutjhunjhunwala?style=social)](https://github.com/achyutjhunjhunwala)
